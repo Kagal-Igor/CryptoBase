@@ -1,0 +1,7 @@
+D:\doc\Visual Studio 2008\Projects\CryptoBase\TestProject_CryptoBase\bin\Debug\TestProject_CryptoBase.dll
+D:\doc\Visual Studio 2008\Projects\CryptoBase\TestProject_CryptoBase\bin\Debug\TestProject_CryptoBase.pdb
+D:\doc\Visual Studio 2008\Projects\CryptoBase\TestProject_CryptoBase\bin\Debug\CryptoBase.dll
+D:\doc\Visual Studio 2008\Projects\CryptoBase\TestProject_CryptoBase\bin\Debug\CryptoBase.pdb
+D:\doc\Visual Studio 2008\Projects\CryptoBase\TestProject_CryptoBase\obj\Debug\ResolveAssemblyReference.cache
+D:\doc\Visual Studio 2008\Projects\CryptoBase\TestProject_CryptoBase\obj\Debug\TestProject_CryptoBase.dll
+D:\doc\Visual Studio 2008\Projects\CryptoBase\TestProject_CryptoBase\obj\Debug\TestProject_CryptoBase.pdb

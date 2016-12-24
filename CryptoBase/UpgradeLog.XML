@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CryptoBase">
+</Property><Property Name="Solution File" Value="D:\doc\Visual Studio 2008\Projects\CryptoBase\CryptoBase.sln">
+</Property><Property Name="Date" Value="24 декабря 2016 г.">
+</Property><Property Name="Time" Value="14:00">
+</Property></Properties><Event ErrorLevel="0" Project="CryptoBase" Source="CryptoBase\CryptoBase.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CryptoBase" Source="CryptoBase\CryptoBase.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestProject_CryptoBase" Source="TestProject_CryptoBase\TestProject_CryptoBase.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestProject_CryptoBase" Source="TestProject_CryptoBase\TestProject_CryptoBase.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CryptoApp" Source="CryptoApp\CryptoApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CryptoApp" Source="CryptoApp\CryptoApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CryptoBase.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CryptoBase.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CryptoBase" Source="CryptoBase\CryptoBase.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="3" Project="" Source="CryptoBase2.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CryptoBase2.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="CryptoBase3.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CryptoBase3.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="CryptoBase4.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CryptoBase4.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="CryptoBase5.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CryptoBase5.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="CryptoBase6.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CryptoBase6.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="CryptoBase7.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CryptoBase7.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="LocalTestRun.testrunconfig" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LocalTestRun.testrunconfig" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="0" Project="TestProject_CryptoBase" Source="TestProject_CryptoBase\TestProject_CryptoBase.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CryptoApp" Source="CryptoApp\CryptoApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,9 @@
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\bin\Debug\CryptoApp.exe
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\bin\Debug\CryptoApp.pdb
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\obj\Debug\ResolveAssemblyReference.cache
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\obj\Debug\CryptoApp.Form1.resources
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\obj\Debug\CryptoApp.exe
+D:\doc\Мои видеозаписи\МТУСИ\МиСЗКИ\На ГИТ\CryptoBase\CryptoApp\obj\Debug\CryptoApp.pdb

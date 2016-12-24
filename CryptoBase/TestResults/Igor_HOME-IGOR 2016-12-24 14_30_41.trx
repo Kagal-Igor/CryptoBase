@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f05e0e0f-f016-4fd1-a8c3-3e4c01b211fa" name="Igor@HOME-IGOR 2016-12-24 14:30:41" runUser="HOME-IGOR\Igor" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local Test Run" id="414542f7-8099-42bd-9259-2012c19926d8">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="Igor_HOME-IGOR 2016-12-24 14_30_41">
+      <DeploymentItem filename="D:\doc\Visual Studio 2008\Projects\CryptoBase\CryptoBase\bin\Debug\CryptoBase.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-12-24T14:30:41.5937500+03:00" queuing="2016-12-24T14:30:43.7187500+03:00" start="2016-12-24T14:30:43.9062500+03:00" finish="2016-12-24T14:30:44.5156250+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EmptyHashEquals" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="dcb19fc5-f168-599e-1389-6943a1334eae">
+      <Execution id="6b0f2189-b316-4d29-a41f-838af35385e3" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.TestMD5, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EmptyHashEquals" />
+    </UnitTest>
+    <UnitTest name="Equal_text_long_RC5" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="6b46315d-453b-4c1d-4e91-eb01be920271">
+      <Execution id="e046723a-dbe0-4c66-8a88-7da15f77226d" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.Test_RC5, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Equal_text_long_RC5" />
+    </UnitTest>
+    <UnitTest name="SignAndVerify" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="423aac83-78f0-9e18-dcec-31ffd6da6d27">
+      <Execution id="732488c8-8a1f-4899-8b1d-618e46f89939" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.TestSignatureRSA, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SignAndVerify" />
+    </UnitTest>
+    <UnitTest name="EncryptDecriptEqualsElGamal" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="2674be3d-04e8-205a-745c-2d47be0b5899">
+      <Execution id="f715ceab-9fd1-410c-8418-07644421c2c1" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.TestElgamal, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EncryptDecriptEqualsElGamal" />
+    </UnitTest>
+    <UnitTest name="HashEquals" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="70b357e7-5da8-adc3-dc3b-dcafba802a32">
+      <Execution id="9b10164c-d5d8-4880-91b4-ec010c6d271b" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.TestMD5, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HashEquals" />
+    </UnitTest>
+    <UnitTest name="EncryptDecryptDifferentLengthElGamal" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="6433220f-a1e0-46d9-af1d-987982e624bb">
+      <Execution id="cf0e3599-6227-47e2-9880-64de94f3f4ef" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.TestElgamal, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EncryptDecryptDifferentLengthElGamal" />
+    </UnitTest>
+    <UnitTest name="Equal_text_symbol_RC5" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="654aca97-47c3-31c0-4cee-91a7df883853">
+      <Execution id="81de74c6-5a99-4621-8405-c9ccea389e6e" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.Test_RC5, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Equal_text_symbol_RC5" />
+    </UnitTest>
+    <UnitTest name="Equal_text_block_RC5" storage="d:\doc\visual studio 2008\projects\cryptobase\testproject_cryptobase\bin\debug\testproject_cryptobase.dll" id="4b1c83bc-d7fa-778d-75bf-6aa98b483014">
+      <Execution id="bfa428d9-e419-4f1a-8d65-3f019751da11" />
+      <TestMethod codeBase="D:/doc/Visual Studio 2008/Projects/CryptoBase/TestProject_CryptoBase/bin/Debug/TestProject_CryptoBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CryptoBase.Test_RC5, TestProject_CryptoBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Equal_text_block_RC5" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2674be3d-04e8-205a-745c-2d47be0b5899" executionId="f715ceab-9fd1-410c-8418-07644421c2c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="423aac83-78f0-9e18-dcec-31ffd6da6d27" executionId="732488c8-8a1f-4899-8b1d-618e46f89939" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b1c83bc-d7fa-778d-75bf-6aa98b483014" executionId="bfa428d9-e419-4f1a-8d65-3f019751da11" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6433220f-a1e0-46d9-af1d-987982e624bb" executionId="cf0e3599-6227-47e2-9880-64de94f3f4ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="654aca97-47c3-31c0-4cee-91a7df883853" executionId="81de74c6-5a99-4621-8405-c9ccea389e6e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6b46315d-453b-4c1d-4e91-eb01be920271" executionId="e046723a-dbe0-4c66-8a88-7da15f77226d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="70b357e7-5da8-adc3-dc3b-dcafba802a32" executionId="9b10164c-d5d8-4880-91b4-ec010c6d271b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dcb19fc5-f168-599e-1389-6943a1334eae" executionId="6b0f2189-b316-4d29-a41f-838af35385e3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f715ceab-9fd1-410c-8418-07644421c2c1" testId="2674be3d-04e8-205a-745c-2d47be0b5899" testName="EncryptDecriptEqualsElGamal" computerName="HOME-IGOR" duration="00:00:00.0299538" startTime="2016-12-24T14:30:43.9843750+03:00" endTime="2016-12-24T14:30:44.3125000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f715ceab-9fd1-410c-8418-07644421c2c1">
+    </UnitTestResult>
+    <UnitTestResult executionId="732488c8-8a1f-4899-8b1d-618e46f89939" testId="423aac83-78f0-9e18-dcec-31ffd6da6d27" testName="SignAndVerify" computerName="HOME-IGOR" duration="00:00:00.0099305" startTime="2016-12-24T14:30:44.3125000+03:00" endTime="2016-12-24T14:30:44.3281250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="732488c8-8a1f-4899-8b1d-618e46f89939">
+    </UnitTestResult>
+    <UnitTestResult executionId="bfa428d9-e419-4f1a-8d65-3f019751da11" testId="4b1c83bc-d7fa-778d-75bf-6aa98b483014" testName="Equal_text_block_RC5" computerName="HOME-IGOR" duration="00:00:00.0022966" startTime="2016-12-24T14:30:44.3281250+03:00" endTime="2016-12-24T14:30:44.3437500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bfa428d9-e419-4f1a-8d65-3f019751da11">
+    </UnitTestResult>
+    <UnitTestResult executionId="cf0e3599-6227-47e2-9880-64de94f3f4ef" testId="6433220f-a1e0-46d9-af1d-987982e624bb" testName="EncryptDecryptDifferentLengthElGamal" computerName="HOME-IGOR" duration="00:00:00.0235907" startTime="2016-12-24T14:30:44.3437500+03:00" endTime="2016-12-24T14:30:44.3750000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf0e3599-6227-47e2-9880-64de94f3f4ef">
+    </UnitTestResult>
+    <UnitTestResult executionId="81de74c6-5a99-4621-8405-c9ccea389e6e" testId="654aca97-47c3-31c0-4cee-91a7df883853" testName="Equal_text_symbol_RC5" computerName="HOME-IGOR" duration="00:00:00.0005042" startTime="2016-12-24T14:30:44.3750000+03:00" endTime="2016-12-24T14:30:44.3750000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81de74c6-5a99-4621-8405-c9ccea389e6e">
+    </UnitTestResult>
+    <UnitTestResult executionId="e046723a-dbe0-4c66-8a88-7da15f77226d" testId="6b46315d-453b-4c1d-4e91-eb01be920271" testName="Equal_text_long_RC5" computerName="HOME-IGOR" duration="00:00:00.0005151" startTime="2016-12-24T14:30:44.3750000+03:00" endTime="2016-12-24T14:30:44.3906250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e046723a-dbe0-4c66-8a88-7da15f77226d">
+    </UnitTestResult>
+    <UnitTestResult executionId="9b10164c-d5d8-4880-91b4-ec010c6d271b" testId="70b357e7-5da8-adc3-dc3b-dcafba802a32" testName="HashEquals" computerName="HOME-IGOR" duration="00:00:00.0032691" startTime="2016-12-24T14:30:44.3906250+03:00" endTime="2016-12-24T14:30:44.4062500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9b10164c-d5d8-4880-91b4-ec010c6d271b">
+    </UnitTestResult>
+    <UnitTestResult executionId="6b0f2189-b316-4d29-a41f-838af35385e3" testId="dcb19fc5-f168-599e-1389-6943a1334eae" testName="EmptyHashEquals" computerName="HOME-IGOR" duration="00:00:00.0003746" startTime="2016-12-24T14:30:44.4062500+03:00" endTime="2016-12-24T14:30:44.4062500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b0f2189-b316-4d29-a41f-838af35385e3">
+    </UnitTestResult>
+  </Results>
+</TestRun>

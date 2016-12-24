@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62A7F712-A96F-4214-B2E2-FDC189E0DDC4}"
+	ProjectSection(SolutionItems) = preProject
+		CryptoBase1.vsmdi = CryptoBase1.vsmdi
+		CryptoBase2.vsmdi = CryptoBase2.vsmdi
+		CryptoBase3.vsmdi = CryptoBase3.vsmdi
+		CryptoBase4.vsmdi = CryptoBase4.vsmdi
+		CryptoBase5.vsmdi = CryptoBase5.vsmdi
+		CryptoBase6.vsmdi = CryptoBase6.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBase", "CryptoBase\CryptoBase.csproj", "{992C4B2C-AE7B-4074-8516-6DCAE3E453F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject_CryptoBase", "TestProject_CryptoBase\TestProject_CryptoBase.csproj", "{D79531F6-B689-487B-A9F4-375CD77621DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoApp", "CryptoApp\CryptoApp.csproj", "{1E5AF0F3-0784-43EC-89AD-EB226A7DD8F6}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CryptoBase1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992C4B2C-AE7B-4074-8516-6DCAE3E453F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992C4B2C-AE7B-4074-8516-6DCAE3E453F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992C4B2C-AE7B-4074-8516-6DCAE3E453F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992C4B2C-AE7B-4074-8516-6DCAE3E453F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79531F6-B689-487B-A9F4-375CD77621DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79531F6-B689-487B-A9F4-375CD77621DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79531F6-B689-487B-A9F4-375CD77621DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79531F6-B689-487B-A9F4-375CD77621DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5AF0F3-0784-43EC-89AD-EB226A7DD8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5AF0F3-0784-43EC-89AD-EB226A7DD8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5AF0F3-0784-43EC-89AD-EB226A7DD8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5AF0F3-0784-43EC-89AD-EB226A7DD8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
